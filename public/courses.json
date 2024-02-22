@@ -1,0 +1,75 @@
+[
+    {
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200214165928/Web-Development-Course-Thumbnail.jpg",
+      "course_id": "C001",
+      "course_name": "Introduction to Programming",
+      "description": "This course provides an introduction to programming concepts using Python.",
+      "price": 99.99,
+      "credits": 3
+    },
+    {
+      "image": "https://cdn6.f-cdn.com/contestentries/1162950/18299824/59ef996d1981d_thumb900.jpg",
+      "course_id": "C002",
+      "course_name": "Data Structures and Algorithms",
+      "description": "Learn about fundamental data structures and algorithms used in computer science.",
+      "price": 129.99,
+      "credits": 4
+    },
+    {
+      "image": "https://static.picmaker.com/landing/og/YoutubeThumbnail_og.png",
+      "course_id": "C003",
+      "course_name": "Web Development",
+      "description": "Explore modern web development technologies such as HTML, CSS, and JavaScript.",
+      "price": 149.99,
+      "credits": 3
+    },
+    {
+      "image": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/blog_service/2021-12-07-creating-an-awesome-youtube-thumbnail.png",
+      "course_id": "C004",
+      "course_name": "Database Management Systems",
+      "description": "Study the principles and practices of database management systems.",
+      "price": 119.99,
+      "credits": 3
+    },
+    {
+      "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/online-learning-courses-video-thumbnail-design-template-82c91d8095ff7dbf169e005747060413_screen.jpg?ts=1634993528",
+      "course_id": "C005",
+      "course_name": "Artificial Intelligence",
+      "description": "Introduction to artificial intelligence concepts and techniques.",
+      "price": 159.99,
+      "credits": 4
+    },
+    {
+      "image": "https://i.pinimg.com/736x/08/7b/3a/087b3a4b4cf46d58bb1ed5c7b777cdf4.jpg",
+      "course_id": "C006",
+      "course_name": "Cybersecurity Fundamentals",
+      "description": "Learn about basic principles and practices of cybersecurity.",
+      "price": 139.99,
+      "credits": 3
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5pPHTP2XwriF9zmhx7pK3fb4tqpjVTRTZnoGa9YdbJ0h6MqyIgLIO_ii9dq3ku3nKjI&usqp=CAU",
+      "course_id": "C007",
+      "course_name": "Mobile App Development",
+      "description": "Introduction to developing mobile applications for iOS and Android platforms.",
+      "price": 169.99,
+      "credits": 3
+    },
+    {
+      "image": "https://i.pinimg.com/736x/08/7b/3a/087b3a4b4cf46d58bb1ed5c7b777cdf4.jpg",
+      "course_id": "C008",
+      "course_name": "Machine Learning",
+      "description": "Explore machine learning algorithms and techniques.",
+      "price": 179.99,
+      "credits": 4
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb4hDMnsPMZEc0td6cQCvfnZOgpfoLJnTk44BEQL3aBtLnjqHZd40XvZzFmw0RmRhMKvM&usqp=CAU",
+      "course_id": "C009",
+      "course_name": "Software Engineering",
+      "description": "Study software engineering principles and methodologies.",
+      "price": 149.99,
+      "credits": 3
+    }
+  ]
+  
